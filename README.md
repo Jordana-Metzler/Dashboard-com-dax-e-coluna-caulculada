@@ -4,8 +4,6 @@ Este projeto apresenta um dashboard desenvolvido no **Microsoft Power BI** para 
 
 O dashboard foi construído como parte de um exercício prático de análise de dados, com o objetivo de transformar perguntas de negócio em visualizações interativas e indicadores que facilitem a tomada de decisão.
 
-![Dashboard de Vendas](dashboard/dashboard-vendas.png)
-
 ## Objetivo do projeto
 
 O objetivo principal é analisar o desempenho das vendas ao longo do tempo e identificar como fatores como modo de envio, mercado e categoria de produto influenciam os resultados da empresa.
